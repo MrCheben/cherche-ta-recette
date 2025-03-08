@@ -7,7 +7,9 @@
 
 # testing
 /coverage
-.venv
+
+# Dossier environnement virtuel Python, dans le doute je rajoute, vaut mieux pas qu'il soit upload
+.venv   
 
 # production
 /build
