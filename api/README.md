@@ -75,7 +75,3 @@ L'application sera accessible à l'adresse `http://127.0.0.1:5000/`.
    ```
 
 4. Ouvrez une Pull Request pour que vos modifications soient révisées et fusionnées.
-
-## Contact
-
-Pour toute question ou suggestion, n'hésitez pas à contacter [votre-email@example.com].
